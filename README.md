@@ -1,6 +1,5 @@
 # Pymaceuticals Inc
-
-Module 5 Challenge - Matplotlib
+Module 5 Challenge – Matplotlib
 
 
 Pymaceuticals, Inc. is a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -13,10 +12,11 @@ Present the top-level summary of the study results.
 
 This assignment is broken down into the following tasks:
 
- 1- Prepare the data
- 2- Generate summary statistics.
- 3- Create bar charts and pie charts.
- 4- Calculate quartiles, find outliers, and create a box plot.
- 5- Create a line plot and a scatter plot.
- 6- Calculate correlation and regression.
- 7- Submit your final analysis. Write at least three observations or inferences that can be made from the data
+•	Prepare the data
+•	Generate summary statistics.
+•	Create bar charts and pie charts.
+•	Calculate quartiles, find outliers, and create a box plot.
+•	Create a line plot and a scatter plot.
+•	Calculate correlation and regression.
+•	Submit your final analysis. Write at least three observations or inferences that can be made from the data
+
