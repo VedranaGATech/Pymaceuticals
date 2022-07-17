@@ -1,6 +1,8 @@
 # Pymaceuticals Inc
 Module 5 Challenge  -  Matplotlib
 
+![](https://github.com/VedranaGATech/Pymaceuticals/blob/main/images/Laboratory.jpg)
+
 Pymaceuticals, Inc. is a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 We've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
